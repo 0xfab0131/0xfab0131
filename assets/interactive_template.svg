@@ -977,24 +977,6 @@
         </p>
       </section>
 
-            <!-- GitHub Stats -->
-      <section class="content-section">
-        <h2>📊 GitHub Stats</h2>
-        <div class="center flex-center stats-section">
-          <img id="github-stats-img" alt="GitHub Stats" class="stats-card" src="{{GITHUB_STATS_URL}}"/>
-          <img id="top-langs-img" alt="Top Languages" class="stats-card" src="{{TOP_LANGUAGES_URL}}"/>
-        </div>
-        <div class="center stats-section">
-          <img id="streak-stats-img" alt="GitHub Streak Stats" src="{{STREAK_STATS_URL}}"/>
-        </div>
-      </section>
-
-      <!-- Featured Projects -->
-      <section class="content-section">
-        <h2>📂 Featured Projects</h2>
-        <p class="coming-soon">Coming soon…</p>
-      </section>
-
       <!-- Connect with Me -->
       <section class="content-section">
         <h2>📫 Connect with Me</h2>
