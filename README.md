@@ -6,7 +6,5 @@
 </div>
 
 <div align="center">
-  <a href="https://x.com/ja_jp_fab">
-    <img src="./assets/interactive.svg" alt="Interactive Profile" width="100%" height="100%"/>
-  </a>
+  <img src="./assets/interactive.svg" alt="Interactive Profile" width="100%" height="100%"/>
 </div>
