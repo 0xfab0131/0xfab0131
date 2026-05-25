@@ -4,7 +4,7 @@
      version="1.1" baseProfile="full"
      viewBox="0 0 800 2250"
      preserveAspectRatio="xMidYMid meet"
-     width="800" height="1250">
+     width="800" height="2250">
 
   <!-- 最適化したフィルター定義 -->
   <defs>
